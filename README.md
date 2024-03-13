@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**kigary/kigary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"> 
+  <tbody>
+  <tr style="border: none;">
+    <td width="400px" style="border: none; vertical-align: top;">
+      <img src="https://github.com/kigary/kigary/blob/master/images/header.svg">
+      <img src="https://github.com/kigary/kigary/blob/master/images/activity-community.svg">
+      <img src="https://github.com/kigary/kigary/blob/master/images/repositories.svg">
+      <img src="https://github.com/kigary/kigary/blob/master/images/recent-activity.svg">
+    </td>
+    <td width="400px" style="border: none; vertical-align: top;">
+      <img src="https://github.com/kigary/kigary/blob/master/images/languages.svg">
+    </td>
+  </tr>
+  </tbody>
+</table>
