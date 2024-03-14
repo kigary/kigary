@@ -19,3 +19,4 @@ Here are some of my recent projects:
 - [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website builder.
 - [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
 - [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
+- [Ucraft Next](https://next.ucraft.com/): No-code website builder. 
