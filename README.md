@@ -1,6 +1,6 @@
 # 👋 Hi, I am David!
 
-**Digital Craftsman (Engineer/Developer/UX enthusiast)**
+**`Digital Craftsman (Engineer/Developer/UX enthusiast)`**
 
 I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
 
