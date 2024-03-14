@@ -10,8 +10,8 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 ## Connect with Me
 Feel free to reach out! I'm always open to collaboration and new opportunities.
 
-- 📫 How to reach me: Telegram - ![koumyakusuji](https://t.me/koumyakusuji)
-- 🌐 Check out my portfolio: ![Read CV](https://read.cv/kigary)
+- 📫 How to reach me: Telegram - [koumyakusuji](https://t.me/koumyakusuji)
+- 🌐 Check out my portfolio: [Read CV](https://read.cv/kigary)
 
 ## My Latest Projects
 Here are some of my recent projects:
