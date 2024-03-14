@@ -12,7 +12,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
     <td><b>Top Langs</b></td>
  </tr>
  <tr>
-    <td><img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" /></td>
+    <td><img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true&include_all_commits=true" /></td>
     <td><img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" /></td>
  </tr>
 </table>
