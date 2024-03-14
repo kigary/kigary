@@ -11,13 +11,13 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 ![Top Langs](https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact)
 
 <table border="0">
- <tr>
+ <tr border="0">
     <td><b>GitHub Stats</b></td>
     <td><b>Top Langs</b></td>
  </tr>
- <tr>
+ <tr border="0">
     <td><img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" /></td>
-    <td><img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact" /></td>
+    <td><img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true" /></td>
  </tr>
 </table>
 
