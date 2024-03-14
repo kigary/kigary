@@ -1,15 +1,21 @@
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"> 
-  <tbody>
-  <tr style="border: none;">
-    <td width="400px" style="border: none; vertical-align: top;">
-      <img src="https://github.com/kigary/kigary/blob/main/images/header.svg">
-      <img src="https://github.com/kigary/kigary/blob/main/images/activity-community.svg">
-      <img src="https://github.com/kigary/kigary/blob/main/images/repositories.svg">
-    </td>
-    <td width="400px" style="border: none; vertical-align: top;">
-      <img src="https://github.com/kigary/kigary/blob/main/images/languages.svg">
-      <img src="https://github.com/kigary/kigary/blob/main/images/recent-activity.svg">
-    </td>
-  </tr>
-  </tbody>
-</table>
+# 👋 Hi, I am David!
+
+**Digital Craftsman (Engineer/Developer/UX enthusiast)**
+
+I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
+
+## Stats
+![Kigary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kigary&show_icons=true&theme=gruvbox)
+
+## Connect with Me
+Feel free to reach out! I'm always open to collaboration and new opportunities.
+
+- 📫 How to reach me: Telegram - ![koumyakusuji](https://t.me/koumyakusuji)
+- 🌐 Check out my portfolio: ![Read CV](https://read.cv/kigary)
+
+## My Latest Projects
+Here are some of my recent projects:
+
+- [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website builder.
+- [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
+- [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
