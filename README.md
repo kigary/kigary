@@ -7,7 +7,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 ## Stats
 ![Kigary's GitHub Stats](https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true)
 
-![Top Langs](https://github-readme-stats-1rzf9vcfo-kigary.vercel.app/api/top-langs/?username=kigary&layout=pie)
+![Top Langs](https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=pie)
 
 ## Connect with Me
 Feel free to reach out! I'm always open to collaboration and new opportunities.
