@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Engineer/Developer/UX enthusiast)`**
 
-![Lorem](https%3A%2F%2Freadme-typing-svg.demolab.com%2F%3Flines%3DFront-end%20software%20engineer%3B7%20years%20of%20coding%20experience%26font%3DFira%20Code%26center%3Dtrue%26width%3D440%26height%3D45%26color%3D08a4a7%26vCenter%3Dtrue%26pause%3D1000%26size%3D22)
+![Lorem](https://readme-typing-svg.demolab.com/?lines=Front-end%20software%20engineer;7%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=08a4a7&vCenter=true&pause=1000&size=22)
 
 I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
 
