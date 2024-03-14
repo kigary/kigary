@@ -29,4 +29,10 @@ Here are some of my recent projects:
 - [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website builder.
 - [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
 - [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
-- [Ucraft Next](https://next.ucraft.com/): No-code website builder. 
+- [Ucraft Next](https://next.ucraft.com/): No-code website builder.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kigary/kigary/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kigary/kigary/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kigary/kigary/output/github-contribution-grid-snake.svg" />
+</picture>
