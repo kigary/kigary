@@ -1,8 +1,8 @@
-# 👋 Hi, I am David!
+[![Typing SVG Welcome](https://readme-typing-svg.demolab.com?font=Anta&size=32&duration=1&pause=2000&color=08AEB1&repeat=false&random=false&width=300&lines=Hello%2C+I+am+David)](https://git.io/typing-svg)
+
+[![Typing SVG Description](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=2000&color=08A4A7D7&random=false&width=435&lines=Front-end+Software+Engineer;7+years+of+coding+experience)](https://git.io/typing-svg)
 
 **`Digital Craftsman (Engineer/Developer/UX enthusiast)`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=2000&color=08A4A7D7&random=false&width=435&lines=Front-end+Software+Engineer;7+years+of+coding+experience)](https://git.io/typing-svg)
 
 I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
 
