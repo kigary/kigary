@@ -5,7 +5,7 @@
 I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
 
 ## Stats
-![Kigary's GitHub Stats](https://github-readme-stats-1rzf9vcfo-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true)
+![Kigary's GitHub Stats](https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-1rzf9vcfo-kigary.vercel.app/api/top-langs/?username=kigary&layout=pie)
 
