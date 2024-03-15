@@ -21,9 +21,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 - [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
 - [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website no-code builder.
 
----
-
-### I am React.js fan, but I do lot more than that 👇🏻
+## I am React.js fan, but I do lot more than that 👇🏻
 
 #### Languages & Frameworks
 
