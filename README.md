@@ -21,6 +21,8 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 - [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
 - [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website no-code builder.
 
+---
+
 ### I am React.js fan, but I do lot more than that 👇🏻
 
 #### Languages & Frameworks
@@ -83,6 +85,8 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height=32 />
 </p>
 
+---
+
 ### Currently learning 👇🏻
 
 <p>
@@ -90,6 +94,8 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height=32 />
     <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" height=32 />
 </p>
+
+---
 
 ### Where to Find Me
 
