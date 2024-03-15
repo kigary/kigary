@@ -13,16 +13,6 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 
 #### Top Langs
 <img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
-<table border="0">
- <tr>
-    <td><b></b></td>
-    <td><b>Top Langs</b></td>
- </tr>
- <tr>
-    <td><img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" /></td>
-    <td><img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" /></td>
- </tr>
-</table>
 
 ## Connect with Me
 Feel free to reach out! I'm always open to collaboration and new opportunities.
