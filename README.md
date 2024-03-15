@@ -8,9 +8,14 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 
 ## Stats
 
+#### GitHub Stats
+<img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" />
+
+#### Top Langs
+<img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
 <table border="0">
  <tr>
-    <td><b>GitHub Stats</b></td>
+    <td><b></b></td>
     <td><b>Top Langs</b></td>
  </tr>
  <tr>
