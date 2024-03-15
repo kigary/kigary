@@ -26,7 +26,26 @@ Here are some of my recent projects:
 - [Ucraft Next](https://next.ucraft.com/): No-code website builder.
 - [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
 - [ftNFT Marketplace (Armenia)](https://ftnft.am/en): NFT Marketplace builder for Armenia region.
-- [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website builder.
+- [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website no-code builder.
+
+### Where to Find Me
+<p>
+    <a href="https://linkedin.com/in/kigary">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30 />
+    </a>
+    <a href="https://t.me/koumyakusuji">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=30 />
+    </a>
+    <a href="https://medium.com/@kigary">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=30 />
+    </a>
+    <a href="mailto:david.mirumyan.job@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30 />
+    </a>
+    <a href="mailto:david.mirumyan@proton.me" target="_blank">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=30 />
+    </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kigary/kigary/output/github-contribution-grid-snake-dark.svg?v=1" />
