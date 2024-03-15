@@ -47,3 +47,7 @@ Feel free to reach out! I'm always open to collaboration and new opportunities. 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kigary/kigary/output/github-contribution-grid-snake.svg?v=1" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kigary/kigary/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
+<p></p>
+<a href="https://www.buymeacoffee.com/kigary" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
