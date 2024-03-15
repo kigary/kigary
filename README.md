@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development has been exciting and I am lover of complex applications.
+I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development is very exciting, and I am lover of complex applications.
 
 ## Stats
 
@@ -14,14 +14,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 #### Top Langs
 <img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
 
-## Connect with Me
-Feel free to reach out! I'm always open to collaboration and new opportunities.
-
-- 📫 How to reach me: Telegram - [koumyakusuji](https://t.me/koumyakusuji)
-- 🌐 Check out my portfolio: [Read CV](https://read.cv/kigary)
-
 ## My Latest Projects
-Here are some of my recent projects:
 
 - [Ucraft Next](https://next.ucraft.com/): No-code website builder.
 - [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
@@ -29,20 +22,22 @@ Here are some of my recent projects:
 - [SpringBuilder X](https://www.betconstruct.com/springbuilderx): Gambling website no-code builder.
 
 ### Where to Find Me
+
+Feel free to reach out! I'm always open to collaboration and new opportunities. Check out my portfolio 👉🏼 [Read CV](https://read.cv/kigary) 🌐
 <p>
-    <a href="https://linkedin.com/in/kigary">
+    <a href="https://linkedin.com/in/kigary" style="display: inline-flex">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30 />
     </a>
-    <a href="https://t.me/koumyakusuji">
+    <a href="https://t.me/koumyakusuji" style="display: inline-flex">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=30 />
     </a>
-    <a href="https://medium.com/@kigary">
+    <a href="https://medium.com/@kigary" style="display: inline-flex">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=30 />
     </a>
-    <a href="mailto:david.mirumyan.job@gmail.com" target="_blank">
+    <a href="mailto:david.mirumyan.job@gmail.com" target="_blank" style="display: inline-flex">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30 />
     </a>
-    <a href="mailto:david.mirumyan@proton.me" target="_blank">
+    <a href="mailto:david.mirumyan@proton.me" target="_blank" style="display: inline-flex">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=30 />
     </a>
 </p>
