@@ -14,7 +14,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 #### Top Langs
 <img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
 
-## My Latest Projects
+### My Latest Projects
 
 - [Ucraft Next](https://next.ucraft.com/): No-code website builder.
 - [ftNFT Marketplace (Global)](https://www.ftnft.com/): NFT Marketplace builder.
