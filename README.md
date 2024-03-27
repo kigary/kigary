@@ -6,13 +6,13 @@
 
 I'm a passionate developer with a love for creating innovative solutions. My journey in the world of software development is very exciting, and I am lover of complex applications.
 
-## Stats
+[//]: # (## Stats)
 
-#### GitHub Stats
-<img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" />
+[//]: #  (#### GitHub Stats)
+[//]: # (<img src="https://github-readme-stats-kigary.vercel.app/api?hide=issues&theme=gruvbox&username=kigary&show_icons=true&hide_title=true" />)
 
-#### Top Langs
-<img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
+[//]: # (#### Top Langs)
+[//]: # (<img src="https://github-readme-stats-kigary.vercel.app/api/top-langs/?username=kigary&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />)
 
 ### My Latest Projects
 
