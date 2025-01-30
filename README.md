@@ -1,5 +1,5 @@
 [![Typing SVG Welcome](https://readme-typing-svg.demolab.com?font=Anta&size=32&duration=1&pause=2000&color=8ec07c&repeat=false&random=false&width=300&lines=Hello%2C+I+am+David)](https://git.io/typing-svg)  
-[![Typing SVG Description](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=2000&color=9AC08C&random=false&width=435&lines=Front-end+Software+Engineer;7+years+of+coding+experience)](https://git.io/typing-svg)  
+[![Typing SVG Description](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1000&pause=2000&color=9AC08C&random=false&width=435&lines=Front-end+Software+Engineer;8+years+of+coding+experience)](https://git.io/typing-svg)  
 **`Digital Craftsman (Engineer/Developer/UX enthusiast)`**
 
 ---
