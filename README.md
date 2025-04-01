@@ -97,7 +97,7 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 
 ### Where to Find Me
 
-Feel free to reach out! I'm always open to collaboration and new opportunities. Check out my portfolio 👉🏻 [Read CV](https://read.cv/kigary) 🌐
+Feel free to reach out! I'm always open to collaboration and new opportunities. Check out my portfolio 👉🏻 [Interactive CV](https://www.kigary.cv) 🌐
 <p>
     <a href="https://linkedin.com/in/kigary" style="display: inline-flex">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30 />
